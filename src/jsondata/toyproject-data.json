@@ -24,9 +24,9 @@
       "Animation Libraries",
       "Material Icons"
     ],
-    "giturls": "https://github.com/KimGiJeong1101/kgj-portfolio",
+    "giturls": "https://github.com/KimGiJeong1101/type-port-test",
     "videourls": "",
-    "pageurls": "https://kimgijeong1101.github.io/kgj-portfolio"
+    "pageurls": "https://kimgijeong1101.github.io/type-port-test"
   },
   {
     "id": 2,
@@ -99,7 +99,7 @@
     ],
     "giturls": "",
     "videourls": "",
-    "pageurls": "/kgj-portfolio/hyundai"
+    "pageurls": "/type-port-test/hyundai"
   },
 
   {
@@ -128,7 +128,7 @@
     ],
     "giturls": "",
     "videourls": "",
-    "pageurls": "/kgj-portfolio/company"
+    "pageurls": "/type-port-test/company"
   },
   {
     "id": 6,
@@ -153,6 +153,6 @@
     ],
     "giturls": "",
     "videourls": "",
-    "pageurls": "/kgj-portfolio/swf"
+    "pageurls": "/type-port-test/swf"
   }
 ]

@@ -6,7 +6,7 @@ import ProjectFrame from "./components/ProjectFrame";
 import Career from "./components/Career";
 import Footer from "./components/Footer";
 
-function App() {
+const App: React.FC = () => {
   return (
     <>
       <Header></Header>
@@ -22,6 +22,6 @@ function App() {
       <Footer></Footer>
     </>
   );
-}
+};
 
 export default App;

@@ -57,7 +57,7 @@
   - **Vite 공식 문서**를 참고하여 **GitHub Actions + GitHub Pages** 자동 배포 설정
   - **.yml** 워크플로우 파일을 작성하여 `push` 시 자동으로 빌드 및 배포가 진행되도록 설정
 - **결과**: 자동화된 배포 환경 구축으로 개발 효율성 증대  
-  [(코드 파일 보기)](https://github.com/KimGiJeong1101/kgj-portfolio/blob/main/.github/workflows/deploy.yml)
+  [(코드 파일 보기)](https://github.com/KimGiJeong1101/type-port-test/blob/main/.github/workflows/deploy.yml)
 
 ---
 
