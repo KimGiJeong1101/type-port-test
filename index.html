@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="public/cicon.ico" />
+
+    <style>
+      html,
+      body {
+        background-color: #f9f9f9;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+
+      .cusul li::marker {
+        /* color: #cccccc; 마커 색상 */
+        font-size: 20px;
+      }
+
+      .cusul li {
+        font-size: 12px !important;
+      }
+
+      /* lg: 1200px 이상 */
+      @media (min-width: 1200px) {
+        .cusul li {
+          font-size: 17px !important;
+        }
+      }
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>김기정 :: PortFolio</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

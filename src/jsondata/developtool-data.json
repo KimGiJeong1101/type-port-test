@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "imgName": "vscode",
+    "firstText": "VS",
+    "firstTextFont": { "xs": 18, "lg": 24 },
+    "secondText": "Code",
+    "secondTextFont": { "xs": 18, "lg": 24 },
+    "textCount": 2
+  },
+  {
+    "id": 2,
+    "imgName": "IntelliJ",
+    "firstText": "IntelliJ",
+    "firstTextFont": { "xs": 18, "lg": 24 },
+    "textCount": 1
+  },
+  {
+    "id": 3,
+    "imgName": "eclipse",
+    "firstText": "Eclipse",
+    "firstTextFont": { "xs": 18, "lg": 24 },
+    "textCount": 1
+  },
+  {
+    "id": 4,
+    "imgName": "git",
+    "firstText": "Git",
+    "firstTextFont": { "xs": 18, "lg": 24 },
+    "textCount": 1
+  },
+  {
+    "id": 5,
+    "imgName": "OracleDeTool",
+    "firstText": "Oracle",
+    "firstTextFont": { "xs": 14, "lg": 18 },
+    "secondText": "SQL",
+    "secondTextFont": { "xs": 14, "lg": 18 },
+    "thirdText": "Developer",
+    "thirdTextFont": { "xs": 14, "lg": 18 },
+    "textCount": 3
+  },
+  {
+    "id": 6,
+    "imgName": "HeidiSQL",
+    "firstText": "HeidiSQL",
+    "firstTextFont": { "xs": 15, "lg": 21 },
+    "textCount": 1
+  },
+  {
+    "id": 7,
+    "imgName": "compass",
+    "firstText": "MongoDB",
+    "firstTextFont": { "xs": 13, "lg": 18 },
+    "secondText": "Compass",
+    "secondTextFont": { "xs": 13, "lg": 18 },
+    "textCount": 2
+  },
+  {
+    "id": 8,
+    "imgName": "SourceTree",
+    "firstText": "Source",
+    "firstTextFont": { "xs": 17, "lg": 24 },
+    "secondText": "Tree",
+    "secondTextFont": { "xs": 17, "lg": 24 },
+    "textCount": 2
+  }
+]

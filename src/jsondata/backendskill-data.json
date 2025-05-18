@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "imgName": "java",
+    "firstText": "JAVA",
+    "firstTextFont": { "xs": 20, "lg": 27 },
+    "textCount": 1
+  },
+  {
+    "id": 2,
+    "imgName": "spring",
+    "firstText": "Spring",
+    "firstTextFont": { "xs": 15, "lg": 24 },
+    "textCount": 1
+  },
+  {
+    "id": 3,
+    "imgName": "springboot",
+    "firstText": "Spring",
+    "firstTextFont": { "xs": 15, "lg": 24 },
+    "secondText": "Boot",
+    "secondTextFont": { "xs": 15, "lg": 24 },
+    "textCount": 2
+  },
+  {
+    "id": 4,
+    "imgName": "nodeJS",
+    "firstText": "NodeJS",
+    "firstTextFont": { "xs": 14, "lg": 22 },
+    "textCount": 1
+  },
+  {
+    "id": 5,
+    "imgName": "expressJS",
+    "firstText": "ExpressJS",
+    "firstTextFont": { "xs": 10, "lg": 18 },
+    "textCount": 1
+  }
+]

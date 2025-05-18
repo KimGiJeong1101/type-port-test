@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "imgName": "React",
+    "firstText": "React",
+    "firstTextFont": { "xs": 19, "lg": 26 },
+    "textCount": 1
+  },
+  {
+    "id": 2,
+    "imgName": "javascript",
+    "firstText": "JavaScript",
+    "firstTextFont": { "xs": 13, "lg": 18 },
+    "textCount": 1
+  },
+  {
+    "id": 3,
+    "imgName": "ajax",
+    "firstText": "AJAX",
+    "firstTextFont": { "xs": 19, "lg": 26 },
+    "textCount": 1
+  },
+  {
+    "id": 4,
+    "imgName": "jquery",
+    "firstText": "jQuery",
+    "firstTextFont": { "xs": 17, "lg": 23 },
+    "textCount": 1
+  },
+  {
+    "id": 5,
+    "imgName": "html",
+    "firstText": "HTML",
+    "firstTextFont": { "xs": 17, "lg": 26 },
+    "textCount": 1
+  },
+  {
+    "id": 6,
+    "imgName": "css3",
+    "firstText": "CSS3",
+    "firstTextFont": { "xs": 17, "lg": 26 },
+    "textCount": 1
+  },
+  {
+    "id": 7,
+    "imgName": "bootstrap",
+    "firstText": "BootStrap",
+    "firstTextFont": { "xs": 13, "lg": 19 },
+    "textCount": 1
+  },
+  {
+    "id": 8,
+    "imgName": "JSP",
+    "firstText": "JSP",
+    "firstTextFont": { "xs": 20, "lg": 27 },
+    "textCount": 1
+  }
+]

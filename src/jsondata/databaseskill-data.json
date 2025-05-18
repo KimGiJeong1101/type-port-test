@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "imgName": "OracleDB",
+    "firstText": "OracleDB",
+    "firstTextFont": { "xs": 14, "lg": 20 },
+    "textCount": 1
+  },
+  {
+    "id": 2,
+    "imgName": "mysql",
+    "firstText": "MySQL",
+    "firstTextFont": { "xs": 17, "lg": 24 },
+    "textCount": 1
+  },
+  {
+    "id": 3,
+    "imgName": "mariadb",
+    "firstText": "MariaDB",
+    "firstTextFont": { "xs": 15, "lg": 22 },
+    "textCount": 1
+  },
+  {
+    "id": 4,
+    "imgName": "MongoDB",
+    "firstText": "MongoDB",
+    "firstTextFont": { "xs": 13, "lg": 19 },
+    "textCount": 1
+  }
+]
